@@ -2,6 +2,7 @@
 *.log
 *~
 node_modules/
+ec*.600pk
 img/*
 deck/*
 nine_cards_by_page.pdf
